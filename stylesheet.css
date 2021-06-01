@@ -1,0 +1,17 @@
+body{background: black; font-size: 20px; font-family: 'Handlee', cursive;}
+input{font-size: 18px; font-family: 'Handlee', cursive;}
+.title img{max-width: 60px; float: right;}    
+.postcard{background: white; width: 500px; height: 350px; margin: auto; 
+    position:absolute; top:50%;left:50%; transform: translate(-50%, -50%);
+    padding: 15px;} 
+.postcard-header{overflow: hidden}      
+.postcard-body{overflow: hidden;}
+.title h1{margin: 0;}
+.izquierdo{float: left; width: 50%;}
+.derecho{float: right; width: 50%;}
+.derecho input{display: block;}
+.postcard-footer{padding: 10px; text-align: center;    margin-top: 220px !important;}
+.postcard-footer input[type=submit]{border: none; border-bottom: 1px solid gray ;}
+.hola-profe{border: none; border-bottom: 1px solid grey ; width: 240px ;
+margin-bottom: 10px; padding: 5px;}
+h1{font-size: 35px;}
